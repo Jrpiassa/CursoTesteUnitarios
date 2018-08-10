@@ -1,4 +1,4 @@
-# Curso Teste Unitarios
+# Curso de Testes Unitarios
 Curso de testes unitários com Java 
 
 # O teste deve se dividir em três etapas
