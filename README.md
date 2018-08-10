@@ -32,12 +32,12 @@ Curso de testes unitários com Java
 		Implementar manerias de checar o resultado que obtvermos
 		e validar se o resultado é o esperado.
 
-#Um teste tem que ser:
+# Um teste tem que ser:
 	Os testes devem ser rapidos em sua execução e ter alta
 	disponibilidade para que possam ser executados quantas
 	vezes e quando queremos.
 
-#Assertivas
+# Assertivas
 	Assertivas é uma das caracteristicas do frameworks xunits,
 	esta ligada diretamente a uma expressão lógica, se a expressão
 	for verdadeira o teste segue o caminho, porem se o teste não
