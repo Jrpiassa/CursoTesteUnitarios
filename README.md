@@ -1,4 +1,5 @@
 # Curso de Testes Unitarios
+<<<<<<< HEAD
 Curso de testes unitários com Java
 
 # Objetivo:
@@ -20,6 +21,9 @@ Curso de testes unitários com Java
 	é publico e espero a colaboração para que possamos compartilhar
 	entre as pessoas que estão inciando e que querem aprender sobre
 	testes unitários.
+=======
+Curso de testes unitários com Java 
+>>>>>>> 71508ab139bac96c5e5eecb3d588063935a86154
 
 # O teste deve se dividir em três etapas
 	1- Cenário

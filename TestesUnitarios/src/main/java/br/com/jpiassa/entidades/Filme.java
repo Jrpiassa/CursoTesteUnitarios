@@ -1,4 +1,4 @@
-package br.com.jrpiassa.entidades;
+package br.com.jpiassa.entidades;
 
 public class Filme {
 
